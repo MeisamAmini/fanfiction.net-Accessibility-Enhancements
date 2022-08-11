@@ -10,4 +10,4 @@ There exist a few extensions like **TamperMonkey** which get installed on your b
 
 First, install **TamperMonkey** extension for Google Chrome [here](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) and for Firefox [here](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/).
 
-Then install the latest version of this userscript from [here](https://github.com/MeisamAmini/wikipedia-link-remover/raw/main/wikipedia-link-remover.user.js).
+Then install the latest version of this userscript from [here](https://github.com/MeisamAmini/fanfiction.net-Accessibility-Enhancements/raw/main/fanfiction.net-accessibility-enhancements.user.js).
